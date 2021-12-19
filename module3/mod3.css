@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Acme', sans-serif;
+    background-color:#61122f;
+    color:white;
+}
+
+nav{
+    background-color: #f6b319;
+    border: 4px solid black;
+}
+.navbar-brand h1{
+    color:rgb(17, 17, 17);
+}
+
+h2{
+    margin-top: 20px;
+}
+
+#bg{
+    background-color: rgb(122, 118, 118);
+    width: 90%;
+}
+
+h3{
+    color:black;
+}
